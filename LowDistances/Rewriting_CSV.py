@@ -1,4 +1,3 @@
-from codecs import utf_16_be_decode
 import csv
 
 with open("all_cities.csv", "r", encoding="utf-8") as source:
